@@ -55,6 +55,12 @@ nav ul li a {
     text-align: center;
 }
 
+.hero img {
+    width: 400px;
+    margin: 100px;
+    border-radius: 10px;
+}
+
 .hero-content h2 {
     color: #00aaff;
     font-size: 48px;
